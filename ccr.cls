@@ -340,8 +340,6 @@
     \setcounter{figure}{0}
     \renewcommand{\thetable}{A\arabic{table}}
 }
-\makeatother
-
 
 %%%%%%%%%%%%%% Reference handling %%%%%%%%%%%%%%%%%%%%%
 % When used via Quarto (which handles citations with citeproc), pass the
